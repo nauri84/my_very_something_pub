@@ -1,5 +1,5 @@
 #Norika_komment
 
 #irok ide meg vmit
-#mergeconflict?
+#mergeconflict??
 #valami valos szamitas
