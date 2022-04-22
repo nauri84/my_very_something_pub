@@ -4,3 +4,9 @@
 #mergeconflict??
 #please, be merge conflicted
 #valami valos szamitas
+
+"""
+irok ide is vmit
+"""
+
+#gdhghfdhgdf
